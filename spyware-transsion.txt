@@ -1,0 +1,16 @@
+os-code.shalltry.com
+os-aibox.shalltry.com
+ds.shalltry.com
+ire-dsu.shalltry.com
+dsu-b.shalltry.com
+configuration.transsion-os.com
+component-ota-sg.allawnos.com
+api.parrot-flow.com
+api.robin-flow.com
+tkda.robin-flow.com
+tc.qzwxrtyk.com
+cdn.shengboglobal.com
+api.boyuanhulian.com
+adaggreg-ali.shalltry.com
+tuplogpublic.bangcdn.net
+tuplgpub.bangcdn.net
