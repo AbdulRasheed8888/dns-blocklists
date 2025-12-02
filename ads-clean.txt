@@ -1,0 +1,10 @@
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+adservice.google.com
+ads.youtube.com
+ad.doubleclick.net
+edge.ads.twitch.tv
+ads-api.twitter.com
+adserver.snapchat.com
+securepubads.g.doubleclick.net
+ad-delivery.net
